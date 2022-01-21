@@ -13,13 +13,6 @@
         <module name="efak-common" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="kafka-eagle-api" target="1.5" />
-      <module name="kafka-eagle-common" target="1.5" />
-      <module name="kafka-eagle-core" target="1.5" />
-      <module name="kafka-eagle-plugin" target="1.5" />
-      <module name="kafka-eagle-web" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

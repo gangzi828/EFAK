@@ -20,6 +20,7 @@ package org.smartloli.kafka.eagle.core.factory;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import kafka.zk.KafkaZkClient;
+import kafka.zk.ZkVersion;
 import org.apache.zookeeper.data.Stat;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -68,7 +69,7 @@ public class ZkServiceImpl implements ZkService {
         try {
             status = zkc.pathExists(cmd);
             if (status) {
-                if (zkc.deleteRecursive(cmd)) {
+                if (zkc.deleteRecursive(cmd, ZkVersion.UnknownVersion())) {
                     ret = "[" + cmd + "] has delete success";
                 } else {
                     ret = "[" + cmd + "] has delete failed";

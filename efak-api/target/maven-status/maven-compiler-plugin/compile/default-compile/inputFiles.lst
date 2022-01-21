@@ -1,0 +1,14 @@
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/mail/MyAuthenticator.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/mail/MailServerInfo.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/queue/MailJob.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/queue/DingDingJob.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/mail/MailSenderInfo.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/util/MailFactoryUtils.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/IMServiceImpl.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/IMFactory.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/mail/MailUtils.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/IMService.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/IMProvider.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/util/AlertUtils.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/im/queue/WeChatJob.java
+/Users/gangzi/Documents/workspace_learn/EFAK/efak-api/src/main/java/org/smartloli/kafka/eagle/api/mail/SimpleMailSender.java
